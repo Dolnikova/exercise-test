@@ -1,16 +1,7 @@
-export const App = () => {
-  return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
-  );
+import users from '../users.json';
+import CardList from './cardList';
+
+const App = () => {
+  return <CardList items={users} />;
 };
+export default App;

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "user": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "/exercise-test/static/media/hansel.ac85bc0b7eed23122fbe99f9bbfb2c62.svg"
+  },
+  {
+    "id": "2",
+    "user": "Elizabeth Harrison",
+    "tweets": 303,
+    "followers": 100500,
+    "avatar": "/exercise-test/static/media/hansel.ac85bc0b7eed23122fbe99f9bbfb2c62.svg"
+  }
+]
