@@ -11,6 +11,13 @@
     "user": "Elizabeth Harrison",
     "tweets": 303,
     "followers": 100500,
-    "avatar": "/exercise-test/static/media/hansel.ac85bc0b7eed23122fbe99f9bbfb2c62.svg"
+    "avatar": "/exercise-test/static/media/elizabeth.0388e1c5ed77cee14db3ae6744a7eae8.svg"
+  },
+  {
+    "id": "3",
+    "user": "Martin Harrison",
+    "tweets": 666,
+    "followers": 100500,
+    "avatar": "/exercise-test/static/media/martin.d4140edf479e90525e470c610a6e97fd.svg"
   }
 ]
