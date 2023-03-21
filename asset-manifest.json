@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/exercise-test/static/css/main.7acaea2f.css",
-    "main.js": "/exercise-test/static/js/main.ac162cbf.js",
-    "static/media/hansel.svg": "/exercise-test/static/media/hansel.ac85bc0b7eed23122fbe99f9bbfb2c62.svg",
+    "main.css": "/exercise-test/static/css/main.32567557.css",
+    "main.js": "/exercise-test/static/js/main.bde3c595.js",
     "static/media/picture.svg": "/exercise-test/static/media/picture.404ae19cf117aadfeaf89f819fe0b49b.svg",
     "static/media/vectors.svg": "/exercise-test/static/media/vectors.e917114d7945c04c85a8946a331d28b6.svg",
+    "static/media/ellipse.svg": "/exercise-test/static/media/ellipse.cf73322ac91036f99e3ae778c55a4a05.svg",
+    "static/media/rectangle.svg": "/exercise-test/static/media/rectangle.90e23cf44c8259d5b2f74d75abbbd5cd.svg",
     "index.html": "/exercise-test/index.html",
-    "main.7acaea2f.css.map": "/exercise-test/static/css/main.7acaea2f.css.map",
-    "main.ac162cbf.js.map": "/exercise-test/static/js/main.ac162cbf.js.map"
+    "main.32567557.css.map": "/exercise-test/static/css/main.32567557.css.map",
+    "main.bde3c595.js.map": "/exercise-test/static/js/main.bde3c595.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.ac162cbf.js"
+    "static/css/main.32567557.css",
+    "static/js/main.bde3c595.js"
   ]
 }
